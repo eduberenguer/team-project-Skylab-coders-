@@ -1,7 +1,9 @@
 
 # Inspire
 
-Web application to find inspiration through photographs
+Web application to find inspiration through photographs.
+
+[Live Demo](http://inspire-app.surge.sh)
 
 ## Instructions
 
